@@ -10,3 +10,5 @@ Workout Type: The type of workout performed (e.g., Yoga, HIIT, Cardio, Strength)
 Session Duration: Duration of the workout session in minutes.
 Heart Rate Metrics: Various metrics, including maximum and average beats per minute (BPM).
 Calories Burned: The target variable representing calories burned during the workout.
+
+Through careful data preprocessing and model training, I achieved an R² score of 0.9788, indicating that the model explains approximately 97.88% of the variance in calories burned. Additionally, the mean value of cross-validation accuracy is 0.9787, demonstrating the model's consistent performance across different subsets of the data. This project illustrates the potential of machine learning in fitness analytics, providing valuable insights into calorie expenditure patterns for gym users.
